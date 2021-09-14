@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Podcast search</string>
+    <string name="podcastName">Podcast name</string>
+    <string name="podcastImage">Podcast image</string>
+</resources>
